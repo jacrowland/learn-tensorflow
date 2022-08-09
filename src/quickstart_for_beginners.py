@@ -1,3 +1,10 @@
+"""
+Tensorflow Tutorial
+Quickstart for beginners
+
+Outcome: Short introduction to Keras
+"""
+
 import tensorflow as tf
 
 print(f'TensorFlow version: {tf.__version__}')
