@@ -3,4 +3,7 @@
 /Scripts
 /aclImdb
 aclImdb_v1.tar.gz
-src/aclImdb
+aclImdb
+train
+test
+stack_overflow_16k.tar.gz
